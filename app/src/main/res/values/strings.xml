@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchMarker102</string>
+    <string name="permission_request">Swis needs permission to access your location.</string>
+</resources>
